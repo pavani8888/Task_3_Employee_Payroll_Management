@@ -4,9 +4,9 @@
 
 **Company:** CODTECH IT SOLUTIONS
 
-**Intern Name:** KANDEPU DHANA LAKSHMI
+**Intern Name:** GADE PAVANI
 
-**Intern ID:** CTIS8731
+**Intern ID:** CTIS8910
 
 **Domain:** SQL
 
